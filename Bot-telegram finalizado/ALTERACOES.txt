@@ -1,0 +1,38 @@
+-INSTALAR O PYTHON
+-INSTALAR IMPORTS
+
+==========================
+ALTERAÇÕES DA MAIN
+==========================
+# ALTERAR O NUMERO -1001650455571 PELO ID DO SEU GRUPO
+-144 linha
+-159 linha
+-196 linha
+
+==========================
+ALTERAR MENSAGEM DOS PLANOS
+========================== 
+-63-65
+
+ALTERAR VALORES 
+-95
+-109
+-124
+
+==========================
+ALTERAÇÕES DA SESSION
+==========================
+
+# ALTERAR O NUMERO -1001650455571 PELO ID DO SEU GRUPO
+-124
+
+==========================
+ALTERAÇÕES DA NOTIFICATIONS 
+==========================
+
+# ALTERAR PARA O ID DO NUMERO QUE SERA NOTIFICADO
+-18
+
+# ALTERAR O NUMERO -1001650455571 PELO ID DO SEU GRUPO
+-24
+-27
